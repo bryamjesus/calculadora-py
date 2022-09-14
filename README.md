@@ -1,14 +1,14 @@
 # CALCULADORA
 
-## Suma
+## Suma ➕
 ![Suma](img/add.png)
 
-## Resta
+## Resta ➖
 ![Resta](img/subtraction.png)
 
-## Multiplicación
+## Multiplicación ✖
 ![Multiplicación](img/multiplication.png)
 
-## División
+## División ➗
 ![División](img/split.png)
 
